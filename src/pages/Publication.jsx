@@ -1,0 +1,9 @@
+import React from 'react'
+
+const Publication = () => {
+  return (
+    <div className='px-4 text-black py-8 '>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolores dolorem facilis modi provident at, numquam minus libero dignissimos omnis, fuga nostrum rerum tempora voluptatibus sequi autem. Voluptatum assumenda quis fugit sed id, modi quam facere, esse quasi tempore mollitia error aut praesentium suscipit voluptas consequatur debitis temporibus eligendi impedit accusamus. A illo, sapiente incidunt molestias quidem temporibus sed ab quaerat error repellat est iste, vel ea nulla facilis assumenda! Ipsa tempore et ducimus harum hic, facilis consequatur, aliquid, culpa nam perferendis illum id sint ullam molestias labore distinctio vero voluptatum porro incidunt minima veritatis vitae earum. Voluptatibus expedita repellendus quisquam delectus, minima est doloremque aliquam deserunt nemo nisi non ipsum provident commodi enim labore in illum dolorum quos nesciunt eum sequi neque dicta ipsa! Quod ex rem repudiandae sunt laboriosam? Quibusdam dolore deserunt officiis illo voluptatem explicabo doloribus cum magni dignissimos porro! Laborum impedit dolor maiores magni nulla officia repellat ratione illum. Commodi iste, quas eligendi cumque unde eos aliquam deserunt, possimus non, error minus. Quasi alias perferendis voluptatem in obcaecati molestias ipsum eaque suscipit ex, quod ipsam officiis? Unde at ipsa dolore voluptatum saepe laudantium ex eaque ab quibusdam, adipisci sunt amet temporibus veniam perferendis voluptas ipsam quod maxime.</div>
+  )
+}
+
+export default Publication

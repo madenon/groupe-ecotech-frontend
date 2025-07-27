@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes fadeIn {
+  from {
+    transform: translateY(20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0px);
+    opacity: 1;
+  }
+}
+
+@media (max-width: 768px) {
+  body {
+    padding-bottom: 56px; /* hauteur approximative du menu */
+  }
+}
+
+
+/* Assurer que ReactQuill est au-dessus des autres éléments */
+.react-quill {
+  z-index: 9999 !important;
+  position: relative;
+}
+.react-quill {
+  resize: vertical;
+  overflow: auto;
+  resize: both;
+}
+.quill-container {
+  position: relative;
+  z-index: 9999;
+}
+
+/* Applique un style uniforme aux champs */
+.input-field, .quill-editor, .submit-button {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.submit-button {
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

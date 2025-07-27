@@ -1,0 +1,12 @@
+import React from 'react'
+
+const Text = () => {
+  return (
+    <div>
+      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Labore quam excepturi maxime, laborum ratione quisquam velit, deserunt fugiat tempora amet odit ducimus pariatur optio omnis repellat fugit ab distinctio laboriosam libero vero nemo accusantium id expedita ea. Cum asperiores aspernatur eius soluta, repellat accusantium molestias, perspiciatis ad necessitatibus suscipit, illo quo ullam maiores impedit. Harum vitae assumenda vel enim quibusdam possimus provident, voluptates deleniti iusto similique quod itaque est aut nemo? Molestiae, cum nulla! Tempora porro perspiciatis quae excepturi quo, odit est voluptate, minus distinctio, optio laudantium nemo eligendi placeat blanditiis! Dolorem nesciunt vitae quaerat dolore incidunt, necessitatibus ex aliquid doloremque nihil impedit error perferendis veniam iste unde quam amet. Magnam est veniam commodi aliquam blanditiis molestiae eos dolores facere officiis perspiciatis modi deleniti dolorum deserunt et quibusdam recusandae ut enim, tempora veritatis. Iste officia iure molestiae ducimus voluptatem, itaque voluptatum rerum, exercitationem vero tempora dolores quisquam, recusandae voluptatibus nemo accusantium quis quos praesentium natus sunt placeat atque tempore suscipit distinctio! Ex debitis, facilis sequi cum eligendi ea incidunt repellendus. Earum nostrum harum fugit. Sed voluptatibus fugiat in quisquam culpa nostrum, deserunt eligendi fugit distinctio perspiciatis perferendis, suscipit nihil magnam inventore, odit commodi eaque laborum. Accusamus sequi architecto dolorum iure animi provident nam sint id. Quaerat vel odit deleniti magni ab harum asperiores, placeat ipsum incidunt dolores! Possimus veritatis eaque, quidem officiis numquam libero neque soluta ipsum? Placeat nihil voluptatibus cum? Aspernatur ipsa nemo blanditiis illo maiores quam? Laboriosam quod voluptatum repellendus quo, consequatur veritatis quia labore, esse sequi ut vel neque quidem reiciendis eligendi excepturi animi corporis maiores. Assumenda perferendis cupiditate id eos inventore laudantium! Tempore culpa dolores debitis id officia repudiandae fugit molestiae eum obcaecati mollitia laudantium odit magnam eligendi eveniet non accusantium dolorum delectus, vero blanditiis, cumque et earum? Sequi nisi recusandae nobis, odit voluptatem amet nulla?
+    </div>
+  )
+}
+
+
+export default Text
