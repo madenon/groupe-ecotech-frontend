@@ -2,13 +2,16 @@ import axios from "axios";
 
  // Valeur par défaut si la variable est undefined
 
+const API_BASE_URL=import.meta.env.VITE_API_BASE_URL
+
 export const axiosInstance = axios.create({
-    baseURL:import.meta.env.VITE_API_URL,
+    baseURL:API_BASE_URL,
     withCredentials: true,
     headers: {
     "Content-Type": "application/json"
   }
-});
+})
+
 
 
 // Ajouter un intercepteur pour ajouter un token d'authentification (si nécessaire)
